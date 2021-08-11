@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'GyeonggiBatang'; 
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff'); 
+    font-weight: normal; 
+    font-style: normal; 
+    color: #6b4a4a;
+}
+body{
+    font-family: 'GyeonggiBatang';
+    color: #6b4a4a;
+    font-size: 28px;
+}
+a{
+    padding-left:180px;
+    padding-right:180px;
+    line-height: 50%;
+}
+a.font{
+    font-family:GyeonggiBatang ;
+}
+a:link { color: #6b4a4a; text-decoration: none;}
+a:visited { color: #6b4a4a; text-decoration: none;}
+a:hover { color: #6b4a4a; text-decoration: none;}
